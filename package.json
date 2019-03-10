@@ -1,0 +1,23 @@
+{
+  "name": "currybot-api",
+  "version": "0.1.0",
+  "description": "CurryBot API",
+  "main": "index.js",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woutervu/currybot-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woutervu/currybot-api/issues"
+  },
+  "homepage": "https://github.com/woutervu/currybot-api#readme"
+}
