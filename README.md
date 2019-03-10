@@ -1,6 +1,9 @@
 # currybot-api
 API for messaging between the currybot server and client.
 
+# Installation
+`npm install git+ssh://git@github.com/woutervu/currybot-api.git --save`
+
 # Usage
 ## Client
 Simply instantiate the client and give it an address to connect to.
